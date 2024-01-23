@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@300;400;700&display=swap");
+
+* {
+  font-family: "Anek Telugu", sans-serif;
+}
+
+h1 {
+  text-align: left;
+  margin: 4rem;
+}
+
+.image-container {
+  width: 100%;
+  -webkit-box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.5);
+-moz-box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.5);
+box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.5);
+}
+img {
+  display: contents;
+  background-image:  url(https://www.discogs.com/es/release/11622078-Agents-Of-Destiny-Moz-2-Spinning/image/SW1hZ2U6MzI5NDYyMDE=);
+}
+
+p {
+  padding-left: 10rem; padding-right: 10rem; margin-top: 4rem; margin-left: 4rem; margin-right: 4rem;
+}
+
+/*NO SE MUESTRA LA IMAGEN - REVISAR*/
