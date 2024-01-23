@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(https://www.transparenttextures.com/patterns/always-grey.png)
+    background-image: url(https://www.transparenttextures.com/patterns/always-grey.png);
+    background-attachment: fixed;
 }
 
 h1 {
@@ -11,5 +12,5 @@ h1 {
 
 .content {
     background-color: blue;
-    background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png);
+    background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png) 50%;
 }
