@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(https://www.transparenttextures.com/patterns/always-grey.png)
+}
+
+h1 {
+    background-color: aquamarine;
+}
+
+.content {
+    background-color: blue;
+    background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png);
+}
